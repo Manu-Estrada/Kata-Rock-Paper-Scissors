@@ -36,3 +36,6 @@ Just clone the Kata
     * rock crushes scissors
 
 2. Try implements Factory Method design pattern
+
+
+-------------------------------------------------------------------------------------------
